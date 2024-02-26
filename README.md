@@ -3,26 +3,24 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Backend+Engineer;Always+learning+new+things"></a>
 </p>
 
-
 <div id="badges" align="center">
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohdy-1564351a5)
   [![FaceBook](https://img.shields.io/badge/FaceBook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.mohdy.50)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohdy1999@gmail.com)
+
   
 </div>
 
 <p align="center">
 
-   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="programmer" width="250" height="200">
+   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="programmer" width="350" height="350">
   
-
-
 
 
 ##   <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height="50" >    About me
 
- * Software Engineer specialized in backend development and web applications looking forward to working
-in a challenging environment and building my knowledge about engineering and computer science.
+ * Software Engineer specialized in backend development technologies seeking opportunities in a challenging environment to enhance my knowledge in computer science and engineering .
    
         
 <br>
@@ -46,19 +44,8 @@ in a challenging environment and building my knowledge about engineering and com
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-
-
-
-
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%23404d59.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
-
-
-
-
-
-
-
 
 
 
