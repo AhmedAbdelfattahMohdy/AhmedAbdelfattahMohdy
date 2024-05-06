@@ -8,6 +8,8 @@
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohdy-1564351a5)
   [![FaceBook](https://img.shields.io/badge/FaceBook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.mohdy.50)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohdy1999@gmail.com)
+  <a href="https://wa.me/+201002336826" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohdy-30b21a?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+
 
   
 </div>
